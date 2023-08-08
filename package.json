@@ -1,0 +1,15 @@
+{
+  "name": "rirang99io",
+  "version": "1.0.0",
+  "description": "my blog",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "RIRang99",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  }
+}
